@@ -7,7 +7,6 @@ gem 'sauce-connect'
 # Include everything needed to run rake, tests, features, etc.
 group :development do
   gem 'bundler'
-  gem 'rake'
   gem 'rspec'
   gem 'capybara'
 end
