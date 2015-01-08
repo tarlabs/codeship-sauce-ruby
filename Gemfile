@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'sauce', '~> 3.5.3'
-gem 'sauce-connect', '~> 3.5.0'
+gem 'sauce'
+gem 'sauce-connect'
 
 # Add dependencies to develop your gem here.
 # Include everything needed to run rake, tests, features, etc.
